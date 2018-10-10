@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: To Comments Facebook v1.0.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-08 13:48-0300\n"
+"PO-Revision-Date: 2015-02-26 18:07:34+0000\n"
+"Last-Translator: Tihh <tihh.gon@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: to-comments-facebook.php:21
+#@ tcf
+msgid "<h3>Coment&aacute;rios no Facebook</h3>"
+msgstr "<h3>Comments on Facebook</h3>"
+
+#: to-comments-facebook.php:61
+#@ tcf
+msgid "Cadastro atualizado com êxito."
+msgstr "Sign upgraded successfully."
+
+#: to-comments-facebook.php:93
+#@ tcf
+msgid "Preencha abaixo a configuração necessária para o funcionamento do Comentário do Facebook."
+msgstr "Fill out the below configuration required for running the Facebook comment."
+
+#: to-comments-facebook.php:101
+#@ tcf
+msgid "Código HTML exibido ANTES"
+msgstr "HTML code displayed BEFORE"
+
+#: to-comments-facebook.php:102
+#@ tcf
+msgid "Digite o código HTML que será exibido antes do Bloco de Comentário do Facebook."
+msgstr "Enter the HTML that will be displayed before the comment block Facebook."
+
+#: to-comments-facebook.php:111
+#@ tcf
+msgid "Código HTML exibido DEPOIS"
+msgstr "HTML code displayed AFTER"
+
+#: to-comments-facebook.php:112
+#@ tcf
+msgid "Digite o código HTML que será exibido depois do Bloco de Comentário do Facebook."
+msgstr "Enter the HTML that will be displayed after the comment block Facebook."
+
+#: to-comments-facebook.php:151
+#@ tcf
+msgid "Salvar alterações"
+msgstr "Save Changes"
+
+#: to-comments-facebook.php:156
+#@ tcf
+msgid "Este plugin é desenvolvido por"
+msgstr "This plugin is developed by"
+
+#: to-comments-facebook.php:156
+#@ tcf
+msgid "Nova Brazil Agência Interativa"
+msgstr "Nova Brazil Interactive Agency"
+
+#: to-comments-facebook.php:121
+#@ tcf
+msgid "Relacionar link"
+msgstr "Relate link"
+
+#: to-comments-facebook.php:122
+#@ tcf
+msgid "Recomendamos utilizar <u>shotlink</u>."
+msgstr "We recommend using <u> shotlink </ u>."
+
+#: to-comments-facebook.php:134
+#@ tcf
+msgid "O que exibir de comentário?"
+msgstr "What display comment?"
+
+#: to-comments-facebook.php:135
+#@ tcf
+msgid "Escolha como você deseja exibir no espaço de Comentários do seu blog."
+msgstr "Choose how you want to display the comments space on your blog."
+
+#: to-comments-facebook.php:139
+#@ tcf
+msgid "Exibir ANTES do sistema de comentário nativo do blog."
+msgstr "View BEFORE the native blog comment system."
+
+#: to-comments-facebook.php:140
+#@ tcf
+msgid "Exibir DEPOIS do sistema de comentário nativo do blog."
+msgstr "View AFTER the native blog comment system."
+
+#: to-comments-facebook.php:141
+#@ tcf
+msgid "Exibir SOZINHO (não exibir o sistema de comentário nativo do blog)."
+msgstr "View ALONE (not display the native comment system of the blog)."
+
+#: to-comments-facebook.php:157
+#@ tcf
+msgid "Contribuia com o desenvolvimento enviando suas ideias para"
+msgstr "Was contributing to the development by sending your ideas to"
+
+#: to-comments-facebook.php:157
+#@ tcf
+msgid "Ajude-me com o plugin To Comments Facebook"
+msgstr "Help me with the plugin To Facebook Comments"
+

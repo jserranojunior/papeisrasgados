@@ -1,0 +1,2 @@
+[23-Aug-2016 06:25:17 America/Chicago] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/alvit350/public_html/papeisrasgados/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17
+[31-Dec-2016 18:01:34 America/Chicago] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/alvit350/public_html/papeisrasgados/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17
